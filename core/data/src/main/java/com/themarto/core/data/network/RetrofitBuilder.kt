@@ -8,7 +8,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
 
 private const val BASE_URL = "https://api.mercadolibre.com/"
-private const val AUTH_TOKEN = "APP_USR-7001860561598073-021713-d5628fa10875264dd73bd5520b20e244-177748327"
+private const val AUTH_TOKEN = "your-api-key"
 
 private val moshi = Moshi.Builder()
     .add(KotlinJsonAdapterFactory())

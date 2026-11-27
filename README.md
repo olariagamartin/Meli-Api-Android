@@ -2,13 +2,8 @@
 <img src="screenshots/app_logo.png" alt="product-search" width="250"/>
 <br></br>
 <h1>Product Search App (Android)</h1> 
-<p>Android challenge solution for searching products using the <a href="https://developers.mercadolibre.com.ar/es_ar/buscador-de-productos">Mercado Libre API</a>.</p> 
+<p>Android solution for searching products using the <a href="https://developers.mercadolibre.com.ar/es_ar/buscador-de-productos">Mercado Libre API</a>.</p> 
 </div>
-
-
-## 📱 The challenge
-
-Create an app that allows search and visualization of products
 
 ## 🏗 Architecture & Module Structure
 Followed a modular Clean-Architecture style
